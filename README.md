@@ -4,6 +4,10 @@
 
 *The key to systematic link is a shortened link.🤏*
 <br>
+
+
+
+
 <u>**Explanation**:
 A logic produced by this code that assigns random IDs to the link that is inputted in the site.
 <br>
