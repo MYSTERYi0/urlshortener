@@ -4,11 +4,11 @@
 **U**niform **R**esource **L**ocator
 <hr>
 
-<p align=center>*The key to systematic link is a shortened link.🤏*
+<i><p align=center>The key to systematic link is a shortened link.🤏
 <br>
 *Hence bringing a Code to reduce the size of any URL.*
 <br>
-*Works well for bulky URLs*</p>
+*Works well for bulky URLs*</p></i>
 
 
 
