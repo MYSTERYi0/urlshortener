@@ -1,9 +1,12 @@
-# URL SHORTENER using Django.
+# URL Shortener using Django.
+<hr>
 **U**niform **R**esource **L**ocator
 <hr>
 
 *The key to systematic link is a shortened link.🤏*
 <br>
+*Hence bringing a Code to reduce the size of any URL.*
+*Works well for bulky URLs*
 
 
 
